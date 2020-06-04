@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[FATO_001]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[FATO_001] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_FATO_001_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_TEMPO] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_FILIAL] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_LINHAS_AGRUPADAS] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_LINHAS_SGE] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_CLIENTE] (Foreign Key)
+     Create
+       [dbo].[FK_FATO_001_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_TEMPO] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_FILIAL] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_LINHAS_AGRUPADAS] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_LINHAS_SGE] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_CLIENTE] (Foreign Key)

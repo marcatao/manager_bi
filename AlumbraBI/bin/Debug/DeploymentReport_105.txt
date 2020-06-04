@@ -1,0 +1,27 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[DIM_DIVISOES]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[DIM_DIVISOES] (Table)
+     Alter
+       [dbo].[DIM_DIVISOES_MERGE] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_FATO_001_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_FATO_002_DIM_DIVISAO] (Foreign Key)
+       [dbo].[FK_DIM_LINHAS_AGRUPADAS_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_DIM_LINHAS_SGE_DIM_DIVISOES] (Foreign Key)
+     Create
+       [dbo].[FK_FATO_001_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_FATO_002_DIM_DIVISAO] (Foreign Key)
+       [dbo].[FK_DIM_LINHAS_AGRUPADAS_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_DIM_LINHAS_SGE_DIM_DIVISOES] (Foreign Key)

@@ -1,0 +1,18 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[FATO_003]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[FATO_003].[CD_LINHA] is being dropped, data loss could occur.
+
+** User actions
+     Table rebuild
+       [dbo].[FATO_003] (Table)
+
+** Supporting actions
+
+The column [dbo].[FATO_003].[CD_LINHA] is being dropped, data loss could occur.
+

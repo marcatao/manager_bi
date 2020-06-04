@@ -1,0 +1,15 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       [dbo].[PK_FATO_003] on [dbo].[FATO_003]
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[PK_FATO_003] (Primary Key)
+
+** Supporting actions

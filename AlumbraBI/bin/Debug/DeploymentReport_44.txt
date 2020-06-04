@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[FATO_001].[QT_VENDIDA] is being dropped, data loss could occur.
+       The column [dbo].[FATO_001].[VL_VENDIDA] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[FATO_001] (Table)
+     Create
+       [dbo].[FATO_002] (Table)
+
+** Supporting actions
+
+The column [dbo].[FATO_001].[QT_VENDIDA] is being dropped, data loss could occur.
+The column [dbo].[FATO_001].[VL_VENDIDA] is being dropped, data loss could occur.
+

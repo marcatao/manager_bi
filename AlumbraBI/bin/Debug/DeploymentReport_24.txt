@@ -1,0 +1,19 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[DIM_CLIENTE]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[DIM_CLIENTE] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_FATO_001_DIM_CLIENTE] (Foreign Key)
+     Create
+       [dbo].[FK_FATO_001_DIM_CLIENTE] (Foreign Key)

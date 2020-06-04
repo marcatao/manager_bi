@@ -1,0 +1,15 @@
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\bin\Debug\AlumbraBI.dacpac
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\bin\Debug\AlumbraBI.dll
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\bin\Debug\AlumbraBI.pdb
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\obj\Debug\AlumbraBI.dll
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\obj\Debug\AlumbraBI.pdb
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\obj\Debug\Model.xml
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\obj\Debug\refactor.xml
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\obj\Debug\postdeploy.sql
+C:\Users\marcato\Documents\AlumbraBI\AlumbraBI\AlumbraBI\obj\Debug\predeploy.sql
+T:\T.I\Projetos\Busines Intellegence\AlumbraBI\AlumbraBI\bin\Debug\AlumbraBI.dacpac
+T:\T.I\Projetos\Busines Intellegence\AlumbraBI\AlumbraBI\bin\Debug\AlumbraBI.dll
+T:\T.I\Projetos\Busines Intellegence\AlumbraBI\AlumbraBI\bin\Debug\AlumbraBI.pdb
+T:\T.I\Projetos\Busines Intellegence\AlumbraBI\AlumbraBI\obj\Debug\AlumbraBI.dll
+T:\T.I\Projetos\Busines Intellegence\AlumbraBI\AlumbraBI\obj\Debug\AlumbraBI.pdb
+T:\T.I\Projetos\Busines Intellegence\AlumbraBI\AlumbraBI\obj\Debug\AlumbraBI.sqlprojAssemblyReference.cache

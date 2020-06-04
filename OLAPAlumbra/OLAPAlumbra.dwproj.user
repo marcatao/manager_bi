@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>Auxiliar_Terra</Id>
+            <Name>Auxiliar_Terra</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbpCTkeIEl0W+DWrdHR2QggAAAAAeAAAAQQB1AHgAaQBsAGkAYQByAF8AVABlAHIAcgBhAAAAA2YAAMAAAAAQAAAAQJ2ZxydexjcKMscFYgJFswAAAAAEgAAAoAAAABAAAACABT3fhvcqDpJzSxU9YotsCAAAANH5+A0stg9zFAAAAOv5Qtv+oc1NPUqumEAFgKi/dMFl</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Auxiliar</Id>
+            <Name>Auxiliar</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbpCTkeIEl0W+DWrdHR2QggAAAAASAAAAQQB1AHgAaQBsAGkAYQByAAAAA2YAAMAAAAAQAAAAHGpU5cO6PERbpr75gD5vaAAAAAAEgAAAoAAAABAAAAAy14hQu7oegUtpfal+ka2RCAAAAMGE89MvXfD8FAAAABrdSbQNnP/wuoDqwAPhTg44vdT0</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>Auxiliar_Terra</Id>
+            <Name>Auxiliar_Terra</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbpCTkeIEl0W+DWrdHR2QggAAAAAeAAAAQQB1AHgAaQBsAGkAYQByAF8AVABlAHIAcgBhAAAAA2YAAMAAAAAQAAAA+EoMb4A/iSTJt/d9FbtvswAAAAAEgAAAoAAAABAAAADwtshiZk+gQymw9R1EMCMBGAAAAC5rVqUPjy4GGxoqH05aW5OYSG7bdT6vVBQAAABXynKkqFbyla6FjtJeh6FmYW0zCw==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Auxiliar</Id>
+            <Name>Auxiliar</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbpCTkeIEl0W+DWrdHR2QggAAAAASAAAAQQB1AHgAaQBsAGkAYQByAAAAA2YAAMAAAAAQAAAAP5S6swhiFucZKDyHEPjcTwAAAAAEgAAAoAAAABAAAACsHfiBT6DIHEYA/oU/XcOtGAAAAEJwEi7OFAcslCU1t2JHZfM47dyYSO9DPBQAAAD1uuGjLU2ufIogTwQjFcqqQgu+NA==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>TERRA\SOLO</TargetServer>
+        <TargetDatabase>OLAP</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>

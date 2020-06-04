@@ -1,0 +1,43 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[DIM_CLIENTE] (Table)
+       [dbo].[DIM_DIVISOES] (Table)
+       [dbo].[DIM_FILIAL] (Table)
+       [dbo].[DIM_LINHAS_AGRUPADAS] (Table)
+       [dbo].[DIM_LINHAS_SGE] (Table)
+       [dbo].[DIM_PRODUTOS] (Table)
+       [dbo].[DIM_REPRESENTANTE] (Table)
+       [dbo].[DIM_TEMPO] (Table)
+       [dbo].[FATO_001] (Table)
+       [dbo].[FATO_002] (Table)
+       [dbo].[FK_DIM_LINHAS_AGRUPADAS_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_DIM_LINHAS_SGE_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_DIM_PRODUTOS_DIM_LINHAS_SGE] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_DIVISOES] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_LINHAS_AGRUPADAS] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_CLIENTE] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_TEMPO] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_FILIAL] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_LINHAS_SGE] (Foreign Key)
+       [dbo].[FK_FATO_001_DIM_REPRESENTANTE] (Foreign Key)
+       [dbo].[DIM_CLIENTE_MERGE] (Procedure)
+       [dbo].[DIM_DIVISOES_MERGE] (Procedure)
+       [dbo].[DIM_FILIAL_MERGE] (Procedure)
+       [dbo].[DIM_LINHAS_AGRUPADAS_MERGE] (Procedure)
+       [dbo].[DIM_LINHAS_SGE_MERGE] (Procedure)
+       [dbo].[DIM_PRODUTOS_MERGE] (Procedure)
+       [dbo].[DIM_REPRESENTANTE_MERGE] (Procedure)
+       [dbo].[DIM_TEMPO_MERGE] (Procedure)
+       [dbo].[FATO_001_MERGE] (Procedure)
+
+** Supporting actions
